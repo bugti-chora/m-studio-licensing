@@ -1,1 +1,7 @@
-# m-studio-licensing
+{
+  "valid_keys": [
+    "MAATO",
+    "SHAKEEL",
+    "MEHRU"
+  ]
+}
